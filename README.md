@@ -1,9 +1,11 @@
 # Hi! I'm Javier Escutia 👋
 ### AI & Gameplay Programmer | Clean Code Enthusiast 🧠⚙️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-escutia-marco-22388a278/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0000.svg?style=for-the-badge&logo=itch-dot-io&logoColor=white)](https://eskiury.itch.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierem2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-escutia-marco-22388a278/) [in/javier-escutia](https://www.linkedin.com/in/javier-escutia-marco-22388a278/)
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0000.svg?style=for-the-badge&logo=itch-dot-io&logoColor=white)](https://eskiury.itch.io/) [eskiury.itch.io](https://eskiury.itch.io/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierem2003@gmail.com) **javierem2003@gmail.com**
 
 I am a video game developer specialized in **Artificial Intelligence** and complex NPC behaviors, as well as core **gameplay mechanics**. My passion lies in understanding how things work under the hood, from high-level AI architectures to low-level memory management and hardware optimization.
 
@@ -28,26 +30,26 @@ Whether building **custom engines from scratch** or working in **Unreal Engine**
 
 ## 🕹️ Featured Projects
 
-### 💣 [BommbaMia!](https://github.com/TuUsuario/BommbaMia) | **Lead AI Programmer**
+### 💣 [BommbaMia!](https://github.com/fulanitox/BommbaMia) | **Lead AI Programmer**
 *Custom C++17 / OpenGL Engine / ECS Architecture*
 
 * **Hybrid AI Framework:** Developed a sophisticated AI system combining **Utility AI** for high-level decision-making and **Behavior Trees** for tactical execution.
 * **Reactive Navigation:** Implemented a custom **A* pathfinding** system optimized for dynamic local multiplayer.
 * **System Design:** Focused on a highly decoupled and scalable architecture to ensure smooth gameplay.
 
-### 🕵️ [Where Is Lola?](https://github.com/TuUsuario/WhereIsLola) | **Designer & Developer**
+### 🕵️ [Where Is Lola?](https://github.com/fulanitox/WhereIsLola) | **Designer & Developer**
 *Game Boy / Z80 Assembly* [cite: 10]
 
 * **Hardware Mastery:** Developed entirely in **Assembly**, pushing the Sharp LR35902 to its limits.
 * **Low-Level Optimization:** Mastered resource constraints and hardware-specific routines to deliver fluid performance.
 
-### 🌽 [Pop & Push?](https://github.com/TuUsuario/PopPush) | **Designer & Developer**
+### 🌽 [Pop & Push?](https://github.com/fulanitox/PopAndPush) | **Designer & Developer**
 *Game Boy / Z80 Assembly* 
 
 * **Retro Development:** Further enhanced low-level programming skills in a second complete title for the GB Retro Dev jam.
 * **Mechanic Design:** Balanced core arcade loops within the extreme limitations of 8-bit hardware.
 
-### 🗼 [K’Ho Chillam](https://f4loi.itch.io/kohchilam) | **Main Gameplay Programmer & Designer**
+### 🗼 [K’Ho Chillam](https://github.com/fulanitox/KHo-Chillam) | **Main Gameplay Programmer & Designer**
 *Godot 4 / C#*
 
 * **Tower Defense Systems:** Responsible for the creation of the HUD and core gameplay mechanics.
