@@ -38,7 +38,7 @@ Whether building **custom engines from scratch** or working in **Unreal Engine**
 * **System Design:** Focused on a highly decoupled and scalable architecture to ensure smooth gameplay.
 
 ### 🕵️ [Where Is Lola?](https://github.com/fulanitox/WhereIsLola) | **Designer & Developer**
-*Game Boy / Z80 Assembly* [cite: 10]
+*Game Boy / Z80 Assembly*
 
 * **Hardware Mastery:** Developed entirely in **Assembly**, pushing the Sharp LR35902 to its limits.
 * **Low-Level Optimization:** Mastered resource constraints and hardware-specific routines to deliver fluid performance.
