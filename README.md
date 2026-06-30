@@ -1,72 +1,63 @@
-# Hi! I'm Javier Escutia 👋
-### AI & Gameplay Programmer | Clean Code Enthusiast 🧠⚙️
+# Hi, I'm Javier Escutia 👋 | Gameplay & Core Engine Programmer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-escutia-marco-22388a278/) [in/javier-escutia](https://www.linkedin.com/in/javier-escutia-marco-22388a278/)
-
-[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0000.svg?style=for-the-badge&logo=itch-dot-io&logoColor=white)](https://eskiury.itch.io/) [eskiury.itch.io](https://eskiury.itch.io/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierem2003@gmail.com) **javierem2003@gmail.com**
-
-I am a video game developer specialized in **Artificial Intelligence** and complex NPC behaviors, as well as core **gameplay mechanics**. My passion lies in understanding how things work under the hood, from high-level AI architectures to low-level memory management and hardware optimization.
-
-Whether building **custom engines from scratch** or working in **Unreal Engine**, I focus on creating robust, scalable, and highly optimized systems.
-
----
-
-## 🚀 Technical Arsenal
-
-**Languages & Engines**
 <p align="left">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,cs,godot,c,git,visualstudio,vscode" />
-</a>
+  <a href="https://www.linkedin.com/in/javierescutia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://eskiury.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"></a>
 </p>
 
-* **🧠 AI Specialization:** Behavior Trees, Utility AI, A* Pathfinding, and Unreal State Trees.
-* **🏗️ Architecture:** Data-Oriented Design (ECS), Clean Code patterns, and Robust System Design.
-* **💾 Low-Level:** Z80 Assembly, manual memory management, and hardware-specific optimization.
+I am a **Multimedia Engineer and Video Game Programmer** specializing in Artificial Intelligence architectures, low-level optimization, and custom engine development. My engineering philosophy focuses on bridging the gap between high-level gameplay logic and low-level hardware constraints to build highly optimized systems.
 
 ---
 
-## 🕹️ Featured Projects
+## 🚀 Featured Projects
 
-### 💣 [BommbaMia!](https://github.com/fulanitox/BommbaMia) | **Lead AI Programmer**
-*Custom C++17 / OpenGL Engine / ECS Architecture*
+### 🌲 [Alien: Isolation AI Architecture](https://github.com/eskiury/AlienAI)
+**Core Engine & Advanced AI (Unreal Engine 5 / C++)**
+*   Architected a dual-layer systemic AI framework (Omniscient Director Agent + Actuating Hunter) designed to dynamically manage player tension spikes.
+*   Engineered a custom 3D multi-zone visual sensor pipeline in native C++, anchoring line-trace queries directly onto skeletal head bones instead of rigid actor capsules.
+*   Utilized UE5 State Trees with atomic evaluators and gameplay tags to build a high-performance, non-deterministic combat state machine.
 
-* **Hybrid AI Framework:** Developed a sophisticated AI system combining **Utility AI** for high-level decision-making and **Behavior Trees** for tactical execution.
-* **Reactive Navigation:** Implemented a custom **A* pathfinding** system optimized for dynamic local multiplayer.
-* **System Design:** Focused on a highly decoupled and scalable architecture to ensure smooth gameplay.
+### 🧠 [BommbaMia!](https://github.com/eskiury/BommbaMia)
+**Custom Engine Development (C++17 / Proprietary ECS)**
+*   Served as **Lead AI Programmer**, analyzing and implementing a dynamic multi-behavior Utility AI system from scratch.
+*   Scaled a single utility evaluation matrix to support three distinct NPC profiles: Classic Deathmatch tactical hunting, Post-Death stalker ghosts, and Territory Paint control mode.
+*   Developed a custom grid-tailored A* pathfinding algorithm integrated with hazard-weight scoring loops.
 
-### 🕵️ [Where Is Lola?](https://github.com/fulanitox/WhereIsLola) | **Designer & Developer**
-*Game Boy / Z80 Assembly*
-
-* **Hardware Mastery:** Developed entirely in **Assembly**, pushing the Sharp LR35902 to its limits.
-* **Low-Level Optimization:** Mastered resource constraints and hardware-specific routines to deliver fluid performance.
-
-### 🌽 [Pop & Push?](https://github.com/fulanitox/PopAndPush) | **Designer & Developer**
-*Game Boy / Z80 Assembly* 
-
-* **Retro Development:** Further enhanced low-level programming skills in a second complete title for the GB Retro Dev jam.
-* **Mechanic Design:** Balanced core arcade loops within the extreme limitations of 8-bit hardware.
-
-### 🗼 [K’Ho Chillam](https://github.com/fulanitox/KHo-Chillam) | **Main Gameplay Programmer & Designer**
-*Godot 4 / C#*
-
-* **Tower Defense Systems:** Responsible for the creation of the HUD and core gameplay mechanics.
-* **Adaptability:** Successfully faced the challenge of mastering a new engine (Godot) for a closed project within a 7-person team, applying engineering principles to deliver a polished experience.
+### 👾 [Pop & Push](https://github.com/eskiury/PopAndPush) / [Where is Lola?](https://github.com/eskiury/WhereIsLola)
+**Low-Level Hardware Optimization (SM83 / Z80 Assembly)**
+*   Engineered authentic 8-bit retro games completely from scratch for the original 1989 Nintendo Game Boy hardware.
+*   Programmed custom sub-pixel fixed-point physics with real-time gravity and tile-based collision pipelines on raw metal.
+*   Managed manual memory banking via MBC1 controllers to build external persistent SRAM save-states and optimized VRAM footprints using software tile-mirroring routines.
 
 ---
 
-## ⚙️ My Workflow
+## 🛠️ Technical Stack
 
-* **🔍 Deep Understanding:** I don't implement a technique until I've deconstructed how it works under the hood (A*, CPU cycles, etc.).
-* **✨ Clean Code Fanatic:** Obsessed with writing robust, readable, and production-ready code that survives iteration.
-* **🤝 Team Player:** I thrive in multidisciplinary teams, bridging the gap between technical architecture and player experience.
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /><br /><b>C++17 / C</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" /><br /><b>C#</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine" /><br /><b>Unreal Engine 5</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" /><br /><b>Godot Engine</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /><br /><b>Git / GitHub</b>
+    </td>
+  </tr>
+</table>
+
+*   **Low-Level & Hardware:** SM83 / Z80 Assembly, CPU Registers, Memory Banking (SRAM/VRAM layout management).
+*   **Architectures & Systems:** Entity Component Systems (ECS), Hierarchical State Trees, Utility AI, Goal-Oriented Action Planning (GOAP) concepts.
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=fulanitox&show_icons=true&theme=tokyonight" alt="Javier Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulanitox&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+## 💼 Early Careers Target
+*   🎯 **Goal:** 2K Games Engineering Early Careers Graduate Program (2026-2027).
+*   🗣️ **Languages:** Spanish (Native) | English (Professional Working Proficiency / C1 Pursuing).
