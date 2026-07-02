@@ -58,6 +58,5 @@ I am a **Multimedia Engineer and Video Game Programmer** specializing in Artific
 
 ---
 
-## 💼 Early Careers Target
-*   🎯 **Goal:** 2K Games Engineering Early Careers Graduate Program (2026-2027).
+
 *   🗣️ **Languages:** Spanish (Native) | English (Professional Working Proficiency / C1 Pursuing).
